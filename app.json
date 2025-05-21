@@ -43,7 +43,7 @@
     },
     "BOTNAME": {
       "description": "Enter name for your bot.",
-      "value": "",
+      "value": "KEITH",
       "required": true
     },
     "PM_PERMIT": {
